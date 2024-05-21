@@ -20,7 +20,14 @@ Instacart, an online grocery store that operates through an app.The Instacart st
 - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## **Data Set**
-The dataset includes open-source data set from Instacart which provide information on Instacart’s customers, products, department and customer order transactions.
+The dataset includes open-source data set from Instacart which provide information on Instacart’s customers, products, department and customer order transactions. Dataset not included in the repository due to size restriction.
+
+**Dataset Provided:**
+- customers.csv
+- departments.csv
+- orders.csv
+- products.csv
+- orders_products_prior.csv
 
 ## **Folder Structure**
 **04-2024 Instacart Basket Analysis (Main Project Folder)**
@@ -28,10 +35,10 @@ The dataset includes open-source data set from Instacart which provide informati
   - Instacart project brief.
     <br/>
     <br/>
-- **03 Scripts(Sub Folder**
+- **03 Scripts(Sub Folder)**
   - Contains Jupyter notebooks with pyhton codes used for the data analysis.
   <br/>
-- **04 Analysis(Sub Folder**
+- **04 Analysis(Sub Folder)**
   - The Visualizations subfolder contains the visualizations created and used for data analysis and insights.
    <br/>
 
