@@ -23,23 +23,23 @@ Instacart, an online grocery store that operates through an app.The Instacart st
 The dataset includes open-source data set from Instacart which provide information on Instacart’s customers, products, department and customer order transactions.
 
 ## **Folder Structure**
-Main project folder
-04-2024 Instacart Basket Analysis
-
-Sub folder
-01 Project Management
-- Project brief
-02 Data
-- Original Data which contains the original data sets from Instacart
-- Prepared Data contains the cleaned dataset used for analysis. (Not uploaded due to size restriction, please contact me if interested)
-03 Scripts
-- Contains Jupyter notebooks with pyhton codes used for the data analysis.
-04 Analysis
-- The Visualizations subfolder contains the visualizations created and used for data analysis and insights.
-05 Sent to Client
-- Presentation Report on Instacart data analysis.
+**04-2024 Instacart Basket Analysis (Main Project Folder)**
+- **01 Project Management(Sub Folder)**
+  - Instacart project brief.
+    <br/>
+    <br/>
+- **02 Data(Sub Folder**
+  - Original Data which contains the original data sets from Instacart.
+  - Prepared Data contains the cleaned dataset used for analysis. (Not uploaded due to size restriction, please contact me if interested)
+   <br/>
+- **03 Scripts(Sub Folder**
+  - Contains Jupyter notebooks with pyhton codes used for the data analysis.
+  <br/>
+- **04 Analysis(Sub Folder**
+  - The Visualizations subfolder contains the visualizations created and used for data analysis and insights.
+   <br/>
+- **05 Sent to Client(Sub Folder**
+  - Presentation Report on Instacart data analysis.
 
 ## **Deliverables**
-
 Presentation on a comprehensive analysis of Instacart Business, supported with python codes & visualisation, translated into actionable recommendations for the business.
-
