@@ -28,18 +28,12 @@ The dataset includes open-source data set from Instacart which provide informati
   - Instacart project brief.
     <br/>
     <br/>
-- **02 Data(Sub Folder**
-  - Original Data which contains the original data sets from Instacart.
-  - Prepared Data contains the cleaned dataset used for analysis. (Not uploaded due to size restriction, please contact me if interested)
-   <br/>
 - **03 Scripts(Sub Folder**
   - Contains Jupyter notebooks with pyhton codes used for the data analysis.
   <br/>
 - **04 Analysis(Sub Folder**
   - The Visualizations subfolder contains the visualizations created and used for data analysis and insights.
    <br/>
-- **05 Sent to Client(Sub Folder**
-  - Presentation Report on Instacart data analysis.
 
 ## **Deliverables**
 Presentation on a comprehensive analysis of Instacart Business, supported with python codes & visualisation, translated into actionable recommendations for the business.
